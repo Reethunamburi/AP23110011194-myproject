@@ -1,2 +1,2 @@
-# AP23110011194-myproject
-SRMS
+# SRMS-Project
+Student Record Management System
